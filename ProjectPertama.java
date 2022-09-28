@@ -45,10 +45,10 @@ public class ProjectPertama {
 //        System.out.println("USIA = " + usia);
         
         
-//        String nama = "Ilma Eka Purnamasari";
+//        String nama = "hasbi abdullah";
 //        String nik = "3500000000000000";
-//        String tmptlhir = "Bondowoso,", tgllhir="07-03-2004";
-//        char jkel = 'p';
+//        String tmptlhir = "palembanh,", tgllhir="19-06-2004";
+//        char jkel = 'L';
 //        final double bb = 45.00;
 //        System.out.println("Identitas Pribadi");
 //        System.out.println("=================");
